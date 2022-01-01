@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+./cmd/wsclient/wsclient
+./cmd/wsclient/wsclient.exe
+./cmd/wsserver/wsserver
+./cmd/wsserver/wsserver.exe
+.idea
